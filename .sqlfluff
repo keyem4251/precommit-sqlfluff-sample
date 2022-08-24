@@ -1,3 +1,6 @@
+[sqlfluff]
+dialect = bigquery
+
 [sqlfluff:rules:L057]
 quoted_identifiers_policy = aliases
 
